@@ -1,0 +1,28 @@
+[
+  {
+    "id": 520005005,
+    "nome": "Abadia de Goiás",
+    "municipio": {
+      "id": 5200050,
+      "nome": "Abadia de Goiás",
+      "microrregiao": {
+        "id": 52010,
+        "nome": "Goiânia",
+        "mesorregiao": {
+          "id": 5203,
+          "nome": "Centro Goiano",
+          "UF": {
+            "id": 52,
+            "sigla": "GO",
+            "nome": "Goiás",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    }
+  }
+]
